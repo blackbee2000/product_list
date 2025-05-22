@@ -1,0 +1,9 @@
+{
+    "@@locale": "vi_VN",
+    "language": "Việt Nam",
+    "noInternet": "Không có kết nối mạng",
+    "product": "Sản phẩm",
+    "noProduct": "Không có sản phẩm nào!",
+    "getProductListError": "Lấy danh sách sản phẩm lỗi!",
+    "enterNameProduct": "Nhập tên sản phẩm"
+}
